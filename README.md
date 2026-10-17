@@ -190,9 +190,6 @@ Its results should not be compared with the numbers above.
 - Evaluate other budgets and attack types, such as text-side and multimodal attacks.
 - Evaluate defences such as adversarial training and input purification.
 
-## Responsible use
-
-This code is for studying and improving the robustness of vision-language models. Please use it for research and education only.
 
 ## References
 
